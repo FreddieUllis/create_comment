@@ -25,16 +25,16 @@ Mass-comment / uncomment selected lines (or the current line) in the Script Edit
 *(drop a short GIF here)*
 
 ## Compatibility
-* Godot **4.0 – 4.2** (tested on 4.2-stable).
+* Godot **4.0 – 4.x**.
 
 ## License
 MIT – do whatever you want, just keep the license file.
 
 ---
 
-# Create Comment – плагин Godot 4 для массового (ра-)комментирования
+# Create Comment – плагин Godot 4 для массового (раc-)комментирования
 
-Лёгкая кнопка «#» для Script Editor:
+Кнопка «#» для Script Editor:
 
 ## Возможности
 * Кнопка **“#”** в тулбаре Script Editor.  
@@ -55,7 +55,7 @@ MIT – do whatever you want, just keep the license file.
    * Если **все** строки начинаются с `#`, блок будет **раскомментирован** (убирается `#` и одиночный пробел).
 
 ## Совместимость
-* Godot **4.0 – 4.2** (проверено на 4.2-stable).
+* Godot **4.x**
 
 ## Лицензия
 MIT – можно использовать где угодно, при условии сохранения файла лицензии.
