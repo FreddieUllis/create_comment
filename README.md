@@ -25,7 +25,7 @@ Mass-comment / uncomment selected lines (or the current line) in the Script Edit
 *(drop a short GIF here)*
 
 ## Compatibility
-* Godot **4.0 – 4.x**.
+* Godot **4.x**.
 
 ## License
 MIT – do whatever you want, just keep the license file.
