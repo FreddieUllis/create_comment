@@ -21,9 +21,6 @@ Mass-comment / uncomment selected lines (or the current line) in the Script Edit
   * If at least one line in the block is **not** commented, the block will be **commented** (`# ` prepended).  
   * If **all** lines start with `#`, they will be **uncommented** (one `#` + one following space are removed).
 
-### Demo  
-*(drop a short GIF here)*
-
 ## Compatibility
 * Godot **4.x**.
 
